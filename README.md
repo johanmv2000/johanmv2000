@@ -34,7 +34,7 @@ Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo
 ### Languages
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,git,javascript,github,kotlin,neovim,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=cpp, python, html, css, js, linux, github, mysql" />
 </p>
 
 ---
