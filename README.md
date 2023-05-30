@@ -9,6 +9,7 @@
 I am a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
 
 I am an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
+
 ---
 
 ## About me
