@@ -20,8 +20,6 @@ Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo
 - ⚡ I'm interested Cybersecurity & Machine Learning
 - 🐧 Linux hobbyist
 <br>
----
-
 <p>
 <a href="https://www.instagram.com/johan_mv2000/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.linkedin.com/in/johan-ra%C3%BAl-moreno-vergara-82953620b/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
