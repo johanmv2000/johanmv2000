@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
 
-[![Johan-Banner2.png](https://i.postimg.cc/HsjF6MS9/Johan-Banner2.png)](https://postimg.cc/qzVmRNHN)
+[![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)](https://postimg.cc/FdzBv04q)
 
 ---
 Soy estudiante de Ingeniería de Software y me llama mucho la atención la ciberseguridad y la inteligencia artificial.
@@ -19,9 +19,7 @@ Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo
 - 🖥️ I'm currently learning Front End and Backend
 - ⚡ I'm interested Cybersecurity & Machine Learning
 - 🐧 Linux hobbyist
-
 <br>
-
 ---
 
 <p>
