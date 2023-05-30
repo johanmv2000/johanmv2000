@@ -18,7 +18,7 @@ Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo
 - 🧑‍💻 Software engineer student from Lima, Peru
 - 🖥️ I'm currently learning Front End and Backend
 - ⚡ I'm interested Cybersecurity & Machine Learning
--
+- 🐧 Linux hobbyist
 
 <br>
 
