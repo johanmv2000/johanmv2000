@@ -12,7 +12,7 @@ Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo
   
 ---
 
-## Sobre mi
+## About me
 
 - ⭐ Hi, I'm Johan  
 - 🧑‍💻 Software engineer student from Lima, Peru
