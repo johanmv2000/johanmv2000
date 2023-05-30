@@ -6,10 +6,9 @@
 [![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)](https://postimg.cc/FdzBv04q)
 
 ---
-Soy estudiante de Ingeniería de Software y me llama mucho la atención la ciberseguridad y la inteligencia artificial.
+I am a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
 
-Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactivo, me gusta aprender de los demás y superarme continuamente.
-  
+I am an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
 ---
 
 ## About me
