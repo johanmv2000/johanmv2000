@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
-<img src="https://i.postimg.cc/nzGbv1wH/Johan-Banner.png" width="900"/>
+<img src="https://i.postimg.cc/nzGbv1wH/Johan-Banner.png" width="auto"/>
 ![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)
 
 ---
