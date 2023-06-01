@@ -6,9 +6,9 @@
 [![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)](https://postimg.cc/FdzBv04q)
 
 ---
-I am a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
+I'm a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
 
-I am an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
+I'm an empathetic and enthusiastic person, with competencies focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and constantly improve myself.  
 
 ---
 
