@@ -4,7 +4,8 @@
 
 <img src="https://i.postimg.cc/nzGbv1wH/Johan-Banner.png" width="auto"/>
 [![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)]
-![johan] ("https://i.postimg.cc/nzGbv1wH/Johan-Banner.png")
+
+[Johan-Banner.png](https://postimg.cc/LhBzsy2P)
 
 ---
 I'm a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
