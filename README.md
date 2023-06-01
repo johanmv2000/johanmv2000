@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
 
 <img src="https://i.postimg.cc/nzGbv1wH/Johan-Banner.png" width="auto"/>
-![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)
+[![Johan-Banner.png](https://i.postimg.cc/nzGbv1wH/Johan-Banner.png)]
 
 ---
 I'm a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
