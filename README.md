@@ -1,6 +1,7 @@
-# Hi, I'm Johan MV ✌🏻🙃🦝
+# Hi, I'm Johan MV ✌🏻🙃
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+like+it+programming+.+.+.)](https://git.io/typing-svg)
+![cool gif](https://github.githubassets.com/images/mona-whisper.gif)
 ---
 I'm a Software Engineering student and I am very interested in cybersecurity and artificial intelligence. 
 
